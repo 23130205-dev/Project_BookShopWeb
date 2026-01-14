@@ -41,7 +41,7 @@ Hệ thống hỗ trợ quản lý sản phẩm, danh mục, người dùng và 
 - MySQL Server
 - Eclipse IDE (hoặc IDE hỗ trợ Java Web)
 ### Các bước chạy
-1. Clone project từ GitHub
+1. Tải project BookShop.zip từ GitHub
 2. Import project vào Eclipse dưới dạng **Dynamic Web Project**
 3. Cấu hình **Apache Tomcat** trong Eclipse
 4. Tạo database và import file `.sql`

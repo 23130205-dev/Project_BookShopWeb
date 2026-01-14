@@ -51,7 +51,7 @@ Hệ thống hỗ trợ quản lý sản phẩm, danh mục, người dùng và 
 ## 🗄️ Cơ sở dữ liệu
 Ứng dụng sử dụng **MySQL**, kết nối thông qua **JDBC**.  
 Thông tin cấu hình database được khai báo trong: src/utils/ConstantUtils.java
-- ✅ Kết quả đạt được
+  ✅ Kết quả đạt được
 - Hoàn thiện website bán sách trực tuyến
 - Áp dụng đúng mô hình MVC
 - Thực hiện đầy đủ các chức năng CRUD

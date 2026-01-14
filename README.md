@@ -41,12 +41,12 @@ Hệ thống hỗ trợ quản lý sản phẩm, danh mục, người dùng và 
 - MySQL Server
 - Eclipse IDE (hoặc IDE hỗ trợ Java Web)
 ### Các bước chạy
-1. Clone project từ GitHub  
-2. Import project vào Eclipse dưới dạng **Dynamic Web Project**  
-3. Cấu hình **Apache Tomcat** trong Eclipse  
-4. Tạo database và import file `.sql`  
-5. Cấu hình kết nối database trong file `ConstantUtils.java`  
-6. Run project trên Tomcat  
+1. Clone project từ GitHub
+2. Import project vào Eclipse dưới dạng **Dynamic Web Project**
+3. Cấu hình **Apache Tomcat** trong Eclipse
+4. Tạo database và import file `.sql`
+5. Cấu hình kết nối database trong file `ConstantUtils.java`
+6. Run project trên Tomcat
 7. Truy cập ứng dụng tại: 
 ## 🗄️ Cơ sở dữ liệu
 Ứng dụng sử dụng **MySQL**, kết nối thông qua **JDBC**.  

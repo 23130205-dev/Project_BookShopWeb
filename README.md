@@ -18,7 +18,7 @@ Hệ thống hỗ trợ quản lý sản phẩm, danh mục, người dùng và 
 - **Model**: Xử lý dữ liệu và làm việc với cơ sở dữ liệu (DAO, JDBC)
 - **View**: Giao diện người dùng (JSP, HTML, CSS)
 - **Controller**: Xử lý request/response (Servlet)
-<img width="451" height="276" alt="MVC Architecture" src="https://github.com/user-attachments/assets/706467fb-48b8-4ac0-8161-614717f8c4db" />
+- <img width="451" height="276" alt="MVC Architecture" src="https://github.com/user-attachments/assets/706467fb-48b8-4ac0-8161-614717f8c4db" />
 ## 🛠️ Công nghệ sử dụng
 **Backend**
 - Java Servlet

@@ -47,10 +47,11 @@ Hệ thống hỗ trợ quản lý sản phẩm, danh mục, người dùng và 
 4. Tạo database và import file `.sql`
 5. Cấu hình kết nối database trong file `ConstantUtils.java`
 6. Run project trên Tomcat
-7. Truy cập ứng dụng tại: 
+7. Truy cập ứng dụng tại: http://localhost:8080/BookShopWeb/
 ## 🗄️ Cơ sở dữ liệu
 Ứng dụng sử dụng **MySQL**, kết nối thông qua **JDBC**.  
 Thông tin cấu hình database được khai báo trong: 'src/utils/ConstantUtils.java'.
+
 * ✅ Kết quả đạt được:
 - Hoàn thiện website bán sách trực tuyến
 - Áp dụng đúng mô hình MVC

@@ -58,6 +58,7 @@ Thông tin cấu hình database được khai báo trong: 'src/utils/ConstantUti
 - Thực hiện đầy đủ các chức năng CRUD
 - Quản lý sản phẩm, danh mục, người dùng và đơn hàng
 - Ứng dụng chạy ổn định trên Apache Tomcat
+  
 🔮 Hướng phát triển
 - Tích hợp thanh toán online (VNPay, MoMo, ZaloPay)
 - Cải thiện giao diện Responsive
